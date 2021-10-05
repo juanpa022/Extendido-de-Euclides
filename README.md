@@ -7,4 +7,5 @@ Laboratorio 02b
 
 
  2.- Implementar el Algoritmo Extendido de Euclides:
+  => euclides estendido 
  
